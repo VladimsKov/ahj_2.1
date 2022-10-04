@@ -1,0 +1,8 @@
+body {
+    color: #999;
+}
+.test_block {
+  height: 100px;
+  width: 50%;
+  border: 1px solid gray;  
+}

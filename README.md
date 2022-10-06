@@ -1,4 +1,5 @@
 # Project 2.1
+[deployment link](https://vladimskov.github.io/ahj_2.1/ "веб-ссылка")
 
 <!-- [Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
 

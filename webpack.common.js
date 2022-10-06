@@ -32,9 +32,9 @@ module.exports = {
         ],
       },
       {
-        test: /\.svg$/,
+        test: /\.(?:ico|gif|png|jpg|jpeg)$/,
         type: 'asset/resource',
-      },
+      },      
     ],
   },
   plugins: [
